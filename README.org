@@ -1,0 +1,7 @@
+* bluefashion
+
+This is a description of my bluefashion.
+
+** Usage
+
+To use my project, run this command: ./myproject --verbose
